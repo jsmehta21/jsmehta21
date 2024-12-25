@@ -3,21 +3,21 @@
 
 <!-- Introduction -->
 
-I am a passionate T. Y. Btech student exploring the world of Cybersecurity, Web Development and Software Engineering 🚀 
-I thrive on continuous learning, experimenting emerging technologies and solving challenges through code. I am on a journey to create solutions that are as impactful as they are secure and innovative!
+I am a passionate T. Y. Btech student exploring the world of Cybersecurity, Web Development and Software Engineering 🚀 <br>
+I thrive on continuous learning, exploring emerging technologies and solving challenges through code. I am on a journey to create solutions that are as impactful as they are secure and innovative!
 
 <!-- Current Focus -->
 ## 🌟 Current Focus
 - 🌐 Exploring **Cybersecurity**, specifically by participating in CTFs, for secure coding practices.
 - 🔢 Strengthening my **Data Structure and Algorithm (DSA)** skills, to enhance my analytical and problem-solving abilities.
-- 📚 Enhancing my web development skills, particularly in **Frontend Development**.
+- 📚 Enhancing my Web Development skills, particularly in **Frontend Development**.
 - 🧠 Diving into Blockchain Development by learning **Solidity** to write secure and efficient smart contracts.
 
 <!-- Skills Section -->
-## 🔄 Skills, Tools and Technologies
+## 🔧 Skills, Tools and Technologies
 - **Programming Languages**: C/C++, Python
 - **Web Development**: HTML, CSS, JavaScript
-- **Cybersecurity**: Linux, Wireshark, Nmap, Burp Suite
+- **Cybersecurity**: Linux, Nmap, Wireshark
 - **Blockchain**: Solidity
 - **Databases**: SQL
 - **Tools**: Git, Figma, Visual Studio Code
