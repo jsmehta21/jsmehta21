@@ -1,4 +1,4 @@
-![MailDownloadGIF](https://github.com/user-attachments/assets/117368fa-a03b-4931-8c1c-6a4b6f47c31b)<!-- Your Name -->
+<!-- Your Name -->
 # Hi there, I am Jiya Mehta 👋 
 
 <!-- Introduction -->
@@ -22,6 +22,14 @@ I thrive on continuous learning, experimenting emerging technologies and solving
 - **Databases**: SQL
 - **Tools**: Git, Figma, Visual Studio Code
 
+<!--Hobbies and Interests -->
+## 🎨 Hobbies & Interests
+When I'm not coding, I enjoy engaging in the following:
+- **Reading**: I love diving into books across a variety of genres, from educational to fictional.
+- **Writing**: I have a passion for writing, whether it's articles or literary work.
+- **Cybersecurity Challenges**: Participating in Capture The Flag (CTF) competitions to sharpen my skills and learn new techniques.
+- **Publishing Newsletter**: As the editorial head of my college’s cybersecurity newsletter, I’m responsible for curating and publishing content that keeps students informed with the latest insights in cybersecurity.
+  
 <!-- CodeChef Stats -->
 ## 📊 CodeChef Stats
 (https://www.codechef.com/users/jiya_jsm21)
@@ -30,5 +38,5 @@ I thrive on continuous learning, experimenting emerging technologies and solving
 ## 📫 Get in Touch
 - 📧 Email: jiyamehta2110@gmail.com
 - 🖇️ LinkedIn: www.linkedin.com/in/jiya-mehta21
-
+<br> 
 Let’s connect and collaborate on exciting projects!
