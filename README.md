@@ -8,9 +8,9 @@ I thrive on continuous learning, exploring emerging technologies and solving cha
 
 <!-- Current Focus -->
 ## 🌟 Current Focus
-- 🌐 Exploring **Cybersecurity**, specifically by participating in CTFs, for secure coding practices.
 - 🔢 Strengthening my **Data Structure and Algorithm (DSA)** skills, to enhance my analytical and problem-solving abilities.
-- 📚 Enhancing my Web Development skills, particularly in **Frontend Development**.
+- 📚 Enhancing my **Web Development** skills.
+- 🌐 Exploring **Cybersecurity**, specifically by participating in CTFs, for secure coding practices.
 - 🧠 Diving into Blockchain Development by learning **Solidity** to write secure and efficient smart contracts.
 
 <!-- Skills Section -->
