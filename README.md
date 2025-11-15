@@ -15,7 +15,7 @@ I thrive on continuous learning, exploring emerging technologies and solving cha
 <!-- Skills Section -->
 ## 🔧 Skills, Tools and Technologies
 - **Programming Languages**: Java
-- **Web Development**: HTML, CSS, JavaScript
+- **Web Development**: HTML, CSS, JavaScript, React
 - **Databases**: SQL
 - **Tools**: Github, Visual Studio Code
 
